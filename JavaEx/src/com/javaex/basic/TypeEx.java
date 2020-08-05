@@ -19,7 +19,7 @@ public class TypeEx {
 		// 단어 사이에 _
 		// 상수 값을 변경하면 해당 상수를 사용한 모든 코드가 변경
 		// 1. 코드의 가독성
-		// 2. 코드 유지 보수의 장점
+		// 2. 코드 유지 보수의 장점.
 		final double PI = 3.14159;
 		final int SPEED_LIMIT = 110;
 		
